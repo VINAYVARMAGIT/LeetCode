@@ -17,6 +17,7 @@ public class StacksUse {
         color.add('G');
         color.add('y');
         color.add('w');
+        add this line 
 
         System.out.println(color.get(2));
     }
